@@ -1,0 +1,10 @@
+1,A,VietNam-DaNang-CamLe-TonDan,IT,5.0,5.0
+2,B,VietNam-DaNang-CamLe-TonDan,IT,6.0,5.0
+3,C,VietNam-DaNang-CamLe-TonDan,IT,7.0,6.0
+4,MinhThang,VietNam-BinhDinh-DongDa-TranHungDao,IT,8.0,8.0
+5,HoangHung,VietNam-NgheAn-DongDa-HaiBaTrung,IT,9.0,9.0
+6,QuocAnh,VietNam-HaTinh-DongDa-TonDan,Biz,8.5,8.0
+7,TrinhHuy,VietNam-GiaLai-DongDa-TonDan,Biz,7.0,6.5
+8,VietKhiem,VietNam-DakLak-DongDa-TonDan,Biz,7.5,7.0
+9,D,VietNam-DaNang-CamLe-TonDan,Biz,5.0,5.0
+10,E,VietNam-DaNang-CamLe-TonDan,Biz,6.0,6.5
